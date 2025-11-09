@@ -8618,8 +8618,8 @@ Shark Suit: 8616
 Shark Suit Seed: 8617
 Shark Head: 8618
 Shark Head Seed: 8619
-Munnin's Unity Wings: 8620
-Munnin's Unity Wings Seed: 8621
+Muninn's Unity Wings: 8620
+Muninn's Unity Wings Seed: 8621
 Bountiful Flowering Lattice: 8622
 Bountiful Flowering Lattice Seed: 8623
 Bountiful Flowering Lattice Roots: 8624
@@ -14708,8 +14708,8 @@ ChiggaLam's Hachimaki: 14706
 ChiggaLam's Hachimaki Seed: 14707
 sSpark's Paintin' Backpack: 14708
 sSpark's Paintin' Backpack Seed: 14709
-null_item14710: 14710
-null_item14710 Seed: 14711
+Misthios' Hugo: 14710
+Misthios' Hugo Seed: 14711
 Runic Wrench Decoration: 14712
 Runic Wrench Decoration Seed: 14713
 Runic Wrench Style: 14714
@@ -15482,24 +15482,24 @@ Pet Battle League Moderator: 15480
 Pet Battle League Moderator Seed: 15481
 Planted Hat: 15482
 Planted Hat Seed: 15483
-null_item15484: 15484
-null_item15484 Seed: 15485
-null_item15486: 15486
-null_item15486 Seed: 15487
-null_item15488: 15488
-null_item15488 Seed: 15489
-null_item15490: 15490
-null_item15490 Seed: 15491
-null_item15492: 15492
-null_item15492 Seed: 15493
-null_item15494: 15494
-null_item15494 Seed: 15495
+Portals: 15484
+Portals Seed: 15485
+Conveyor Belt: 15486
+Conveyor Belt Seed: 15487
+Flipping Spike - Horizontal: 15488
+Flipping Spike - Horizontal Seed: 15489
+Flipping Spike - Vertical: 15490
+Flipping Spike - Vertical Seed: 15491
+Crystal Turret: 15492
+Crystal Turret Seed: 15493
+Breakable Block: 15494
+Breakable Block Seed: 15495
 Pet Hatchley: 15496
 Pet Hatchley Seed: 15497
-null_item15498: 15498
-null_item15498 Seed: 15499
-null_item15500: 15500
-null_item15500 Seed: 15501
+Pearl Mannequin: 15498
+Pearl Mannequin Seed: 15499
+Great Pink Jawbreakers: 15500
+Great Pink Jawbreakers Seed: 15501
 Ghost Pirate Charm: 15502
 Ghost Pirate Charm Seed: 15503
 Riffstorm: 15504
@@ -15514,3 +15514,283 @@ Hamdaniya Headwrap: 15512
 Hamdaniya Headwrap Seed: 15513
 Mechasaurus Rex: 15514
 Mechasaurus Rex Seed: 15515
+Bek and Cal: 15516
+Bek and Cal Seed: 15517
+Lantern's ChronoReaper: 15518
+Lantern's ChronoReaper Seed: 15519
+Neptune's Pendant: 15520
+Neptune's Pendant Seed: 15521
+Occean's Eternal Wake: 15522
+Occean's Eternal Wake Seed: 15523
+Phoenix Paraglider: 15524
+Phoenix Paraglider Seed: 15525
+Cool Capybara: 15526
+Cool Capybara Seed: 15527
+Drowned Dreads: 15528
+Drowned Dreads Seed: 15529
+Floral Hair Pin: 15530
+Floral Hair Pin Seed: 15531
+Lifeguard Jacket: 15532
+Lifeguard Jacket Seed: 15533
+Tied-Up Towel: 15534
+Tied-Up Towel Seed: 15535
+Deck of Cards: 15536
+Deck of Cards Seed: 15537
+Royal Deck of Cards: 15538
+Royal Deck of Cards Seed: 15539
+Tidal Wrench Style: 15540
+Tidal Wrench Style Seed: 15541
+Tidal Wrench Decoration: 15542
+Tidal Wrench Decoration Seed: 15543
+Dungeons Overalls: 15544
+Dungeons Overalls Seed: 15545
+Auction Block: 15546
+Auction Block Seed: 15547
+Dragonfly Wings: 15548
+Dragonfly Wings Seed: 15549
+Royal Dragonfly Wings: 15550
+Royal Dragonfly Wings Seed: 15551
+Celestial Wrench Style: 15552
+Celestial Wrench Style Seed: 15553
+Celestial Wrench Decoration: 15554
+Celestial Wrench Decoration Seed: 15555
+Neon Kitty Cat Hat: 15556
+Neon Kitty Cat Hat Seed: 15557
+Webbed Warrior Gloves: 15558
+Webbed Warrior Gloves Seed: 15559
+Webbed Warrior Mask: 15560
+Webbed Warrior Mask Seed: 15561
+Webbed Warrior Suit: 15562
+Webbed Warrior Suit Seed: 15563
+Webbed Warrior Pants: 15564
+Webbed Warrior Pants Seed: 15565
+Webbed Warrior Shoes: 15566
+Webbed Warrior Shoes Seed: 15567
+Garuda Mount: 15568
+Garuda Mount Seed: 15569
+Nagini Mount: 15570
+Nagini Mount Seed: 15571
+Scythed Hero Hair: 15572
+Scythed Hero Hair Seed: 15573
+Scythed Hero Scythes: 15574
+Scythed Hero Scythes Seed: 15575
+Barong Dance Costume Shirt: 15576
+Barong Dance Costume Shirt Seed: 15577
+Batik Kawung Pattern Background: 15578
+Batik Kawung Pattern Background Seed: 15579
+Batik Parang Pattern Block: 15580
+Batik Parang Pattern Block Seed: 15581
+Buddha Holding Statue Throne: 15582
+Buddha Holding Statue Throne Seed: 15583
+Garuda Temple Stone: 15584
+Garuda Temple Stone Seed: 15585
+Scythed Hero Boots: 15586
+Scythed Hero Boots Seed: 15587
+Scythed Hero Pants: 15588
+Scythed Hero Pants Seed: 15589
+Scythed Hero Shirt: 15590
+Scythed Hero Shirt Seed: 15591
+14DEViL's Friendly Doggy Leash: 15592
+14DEViL's Friendly Doggy Leash Seed: 15593
+chat's Moeru Blade: 15594
+chat's Moeru Blade Seed: 15595
+uzxi's Cultist Locket: 15596
+uzxi's Cultist Locket Seed: 15597
+Fashion Show Bouncer: 15598
+Fashion Show Bouncer Seed: 15599
+Fashion Show Voting Box: 15600
+Fashion Show Voting Box Seed: 15601
+Fashion Show Ticket: 15602
+Fashion Show Ticket Seed: 15603
+Limousine Block: 15604
+Limousine Block Seed: 15605
+Growmoji's Little Partner: 15606
+Growmoji's Little Partner Seed: 15607
+Links' Mugunghwa: 15608
+Links' Mugunghwa Seed: 15609
+Auction Block - Sold Out: 15610
+Auction Block - Sold Out Seed: 15611
+Kuwii's Tutelar: 15612
+Kuwii's Tutelar Seed: 15613
+NewWool's Whip of Knit: 15614
+NewWool's Whip of Knit Seed: 15615
+Climbing Rocks: 15616
+Climbing Rocks Seed: 15617
+Guardian Charm: 15618
+Guardian Charm Seed: 15619
+Riding Soapbar: 15620
+Riding Soapbar Seed: 15621
+Snow Machine: 15622
+Snow Machine Seed: 15623
+Stone Chimney: 15624
+Stone Chimney Seed: 15625
+Gilded Shawl: 15626
+Gilded Shawl Seed: 15627
+Bubble Gum Hair: 15628
+Bubble Gum Hair Seed: 15629
+Ceramic Tile: 15630
+Ceramic Tile Seed: 15631
+Duckling Hood: 15632
+Duckling Hood Seed: 15633
+Flowstone: 15634
+Flowstone Seed: 15635
+Growmoji Lol Block: 15636
+Growmoji Lol Block Seed: 15637
+Growmoji Shades Block: 15638
+Growmoji Shades Block Seed: 15639
+Honeycomb: 15640
+Honeycomb Seed: 15641
+Pine Needles: 15642
+Pine Needles Seed: 15643
+Purple Idol Hair: 15644
+Purple Idol Hair Seed: 15645
+REALLY Really Big Jeans: 15646
+REALLY Really Big Jeans Seed: 15647
+Sleeping Mask: 15648
+Sleeping Mask Seed: 15649
+Mystery Lens: 15650
+Mystery Lens Seed: 15651
+Harvest Broomstick: 15652
+Harvest Broomstick Seed: 15653
+Starry Night Aura: 15654
+Starry Night Aura Seed: 15655
+Barrel Dispenser: 15656
+Barrel Dispenser Seed: 15657
+Passionate Painter Hat: 15658
+Passionate Painter Hat Seed: 15659
+Passionate Painter Beard: 15660
+Passionate Painter Beard Seed: 15661
+Passionate Painter Shirt: 15662
+Passionate Painter Shirt Seed: 15663
+Passionate Painter Paintbrush Pet: 15664
+Passionate Painter Paintbrush Pet Seed: 15665
+Pumpkin Keg: 15666
+Pumpkin Keg Seed: 15667
+Pumpkin Pint: 15668
+Pumpkin Pint Seed: 15669
+Passionate Painter Pants: 15670
+Passionate Painter Pants Seed: 15671
+Sunset Shades: 15672
+Sunset Shades Seed: 15673
+Battalion Chestplate: 15674
+Battalion Chestplate Seed: 15675
+Royal Battalion Chestplate: 15676
+Royal Battalion Chestplate Seed: 15677
+Constellation Wrench Style: 15678
+Constellation Wrench Style Seed: 15679
+Constellation Wrench Decoration: 15680
+Constellation Wrench Decoration Seed: 15681
+Glamorous Crown: 15682
+Glamorous Crown Seed: 15683
+Knight's Growsaber: 15684
+Knight's Growsaber Seed: 15685
+Dead Man's Wrench Style: 15686
+Dead Man's Wrench Style Seed: 15687
+Dead Man's Wrench Decoration: 15688
+Dead Man's Wrench Decoration Seed: 15689
+Storm Crown: 15690
+Storm Crown Seed: 15691
+Royal Storm Crown: 15692
+Royal Storm Crown Seed: 15693
+Bone Bike: 15694
+Bone Bike Seed: 15695
+Heavy Artillery: 15696
+Heavy Artillery Seed: 15697
+Justice Lens: 15698
+Justice Lens Seed: 15699
+Pop Idol's Shin-kal: 15700
+Pop Idol's Shin-kal Seed: 15701
+Puppet Master: 15702
+Puppet Master Seed: 15703
+Bone Bike Helmet: 15704
+Bone Bike Helmet Seed: 15705
+Heavy Artillery Armor: 15706
+Heavy Artillery Armor Seed: 15707
+Justice Scales: 15708
+Justice Scales Seed: 15709
+Pop Idol's Crop Top: 15710
+Pop Idol's Crop Top Seed: 15711
+Pop Idol's Pants: 15712
+Pop Idol's Pants Seed: 15713
+Puppet Face Paint: 15714
+Puppet Face Paint Seed: 15715
+Weakness Crystal: 15716
+Weakness Crystal Seed: 15717
+Astral Aura - Black Cat: 15718
+Astral Aura - Black Cat Seed: 15719
+Cinder Sprites: 15720
+Cinder Sprites Seed: 15721
+Pop Demon's Riding Tiger: 15722
+Pop Demon's Riding Tiger Seed: 15723
+Ring Lord's Mace: 15724
+Ring Lord's Mace Seed: 15725
+Unhelpful Hand: 15726
+Unhelpful Hand Seed: 15727
+Bad Witch's Dress: 15728
+Bad Witch's Dress Seed: 15729
+Bad Witch's Hat: 15730
+Bad Witch's Hat Seed: 15731
+Circus Eyes: 15732
+Circus Eyes Seed: 15733
+Circus Teeth: 15734
+Circus Teeth Seed: 15735
+Pop Demon's Arm Patterns: 15736
+Pop Demon's Arm Patterns Seed: 15737
+Pop Demon's Face Patterns: 15738
+Pop Demon's Face Patterns Seed: 15739
+Pop Demon's Hair: 15740
+Pop Demon's Hair Seed: 15741
+Pop Demon's Jacket: 15742
+Pop Demon's Jacket Seed: 15743
+Pop Demon's Shorts: 15744
+Pop Demon's Shorts Seed: 15745
+Fireball 2: 15746
+Fireball 2 Seed: 15747
+Blade Slash: 15748
+Blade Slash Seed: 15749
+Berserker: 15750
+Berserker Seed: 15751
+Blood Oath: 15752
+Blood Oath Seed: 15753
+Toxic Blast: 15754
+Toxic Blast Seed: 15755
+Soul Reaper: 15756
+Soul Reaper Seed: 15757
+Blade Slash 2: 15758
+Blade Slash 2 Seed: 15759
+Fireball 3: 15760
+Fireball 3 Seed: 15761
+Critical Slash: 15762
+Critical Slash Seed: 15763
+null_item15764: 15764
+null_item15764 Seed: 15765
+Fists of the Undercity: 15766
+Fists of the Undercity Seed: 15767
+Royal Fists of the Undercity: 15768
+Royal Fists of the Undercity Seed: 15769
+Delicious Wrench Style: 15770
+Delicious Wrench Style Seed: 15771
+Delicious Wrench Decoration: 15772
+Delicious Wrench Decoration Seed: 15773
+Black Cowboy Hat: 15774
+Black Cowboy Hat Seed: 15775
+null_item15776: 15776
+null_item15776 Seed: 15777
+null_item15778: 15778
+null_item15778 Seed: 15779
+null_item15780: 15780
+null_item15780 Seed: 15781
+null_item15782: 15782
+null_item15782 Seed: 15783
+null_item15784: 15784
+null_item15784 Seed: 15785
+null_item15786: 15786
+null_item15786 Seed: 15787
+null_item15788: 15788
+null_item15788 Seed: 15789
+null_item15790: 15790
+null_item15790 Seed: 15791
+null_item15792: 15792
+null_item15792 Seed: 15793
+Slash 3: 15794
+Slash 3 Seed: 15795
